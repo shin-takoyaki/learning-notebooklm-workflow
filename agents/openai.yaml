@@ -1,0 +1,7 @@
+interface:
+  display_name: "learning-notebooklm-workflow"
+  short_description: "NotebookLM学習パッケージを作成してアップロードする"
+  brand_color: "#2563EB"
+  default_prompt: "$learning-notebooklm-workflow を使ってNotebookLM学習パッケージを作成し、PlaywrightでNotebookLMノート作成とソースアップロードを自動実行してください。"
+policy:
+  allow_implicit_invocation: true
